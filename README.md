@@ -1,6 +1,6 @@
  ### Hello World!  <img src="Hi.gif" width="29px">
  <p align="center">
-  <a href="https://github.com/vijay320/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I'm%20Vijay-Patel%20%20%20%20%20%20%20%20%20%20%20%20%20%20Full-stack%20web%20and%20app%20developer;Self-taught%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/vijay320/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I'm%20Vijay-Patel;Full-stack%20web%20and%20app%20developer;Self-taught%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
   [![Visits Badge](https://badges.pufler.dev/visits/vijay320/vijay320)](https://badges.pufler.dev/visits/vijay320/vijay320)
   
