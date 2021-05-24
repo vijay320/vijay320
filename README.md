@@ -1,3 +1,10 @@
+ ### Hello World!  <img src="Hi.gif" width="29px">
+  [![Visits Badge](https://badges.pufler.dev/visits/vijay320/vijay320)](https://badges.pufler.dev/visits/vijay320/vijay320)
+  
+<img src="life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
+  
+
 - 👋 Hi, I’m @vijay320
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
