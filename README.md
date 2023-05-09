@@ -28,15 +28,15 @@ You can click the Preview link to take a look at your changes.
 
 -->
 
-Hello there, I'm Vijay Kumar Patel! I am currently completing my Bachelors in Computer Applications (Lovely Professional University). And when I am not working, you'll find me listening to 90s songs. 
+Hello there, I'm Vijay Kumar Patel! I am currently completing my post graduation in MCA (Dev Bhoomi Uttarakhand University). And when I am not working, you'll find me listening to 90s songs. 
 
 ## Currently I'm:
 
-- Working on several Web Development projects (Rails).
-- Competitve Programming in JS, Python and C++
+- Working on several Web Development projects (JavaEE).
+- Competitve Programming in Java, Python and C++
 - Strengthening my Data Structues and Algorithms
 - Learning MERN Stack
-- Practising App Development (React Native)
+- Practising App Development (JavaEE)
 
 
 ## Languages I use:
